@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+##My nmae is Gaith
+I'm a frontend developer (mainly works with React - Nextjs and some Wordpress)
 
 - 🔭 My Main Goal: becoming a fullstack web developer (JS front to back) 
 - 🌱 I’m currently taking my CSS skills to the next level
